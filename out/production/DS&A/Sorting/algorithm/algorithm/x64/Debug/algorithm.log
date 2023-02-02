@@ -1,0 +1,4 @@
+﻿  quickSort.cpp
+E:\DS&A\final\algorithm\algorithm\quickSort.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\DS&A\final\algorithm\algorithm\quickSort.cpp(50,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  algorithm.vcxproj -> E:\DS&A\final\algorithm\x64\Debug\algorithm.exe
